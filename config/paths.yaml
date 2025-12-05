@@ -1,0 +1,4 @@
+raw: "/Volumes/external/Dados/dataset_2/archive/medallionLayers/raw"
+bronze: "/Volumes/external/Dados/dataset_2/archive/medallionLayers/bronze"
+silver: "Volumes/external/Dados/dataset_2/archive/medallionLayers/silver"
+gold: "Volumes/external/Dados/dataset_2/archive/medallionLayers/gold"

@@ -3,8 +3,5 @@ __pycache__/
 *.pyc
 .DS_Store
 
-# não versionar dados
-data/raw/
-data/bronze/
-data/silver/
-data/gold/
+# Ignorar dados locais (caso venham a existir)
+data/
